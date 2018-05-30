@@ -1,2 +1,2 @@
 install:
-	cp -r * /usr/share/kicad/modules/packages3d/
+	cp -rv *.3dshapes /usr/share/kicad/modules/packages3d/
